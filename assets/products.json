@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Kulaklık",
+    "description": "Kablosuz Bluetooth kulaklık",
+    "price": 1299,
+    "image": "assets/images/kulaklik.png",
+    "category": "Ses"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "description": "Günlük kullanım için akıllı saat",
+    "price": 2499,
+    "image": "assets/images/saat.png",
+    "category": "Saat"
+  },
+  {
+    "id": 3,
+    "name": "Telefon",
+    "description": "Yeni nesil akıllı telefon",
+    "price": 15999,
+    "image": "assets/images/telefon.png",
+    "category": "Telefon"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "description": "Günlük kullanım için laptop",
+    "price": 28999,
+    "image": "assets/images/laptop.png",
+    "category": "Bilgisayar"
+  }
+]
